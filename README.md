@@ -1,7 +1,6 @@
 # devchallenge
 Developer Challenge Base
 
-This is the first stage of SW Developer Challenge.
-Never use this for anything - never! This is bad system - very very bad.
-Too easy to hack.
+This was the first stage of SW Developer Challenge.
 
+Now it has been released. Thanks for your contribution.
